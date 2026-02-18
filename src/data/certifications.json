@@ -1,0 +1,26 @@
+[
+  {
+    "id": "moringa-fullstack",
+    "title": "Full Stack Web Development Program",
+    "issuer": "Moringa School",
+    "issueDate": "2026-06",
+    "status": "In Progress",
+    "description": "Comprehensive full-stack development training covering modern web technologies"
+  },
+  {
+    "id": "ccna",
+    "title": "Cisco Certified Network Associate (CCNA)",
+    "issuer": "Cisco Academy",
+    "issueDate": "2025",
+    "status": "Completed",
+    "description": "Professional certification in network configuration, security, and troubleshooting"
+  },
+  {
+    "id": "cybersecurity",
+    "title": "Cybersecurity Fundamentals",
+    "issuer": "IBM SkillsBuild",
+    "issueDate": "2025",
+    "status": "Completed",
+    "description": "Foundation in cybersecurity principles and best practices"
+  }
+]

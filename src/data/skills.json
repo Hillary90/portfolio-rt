@@ -1,0 +1,56 @@
+[
+  {
+    "category": "Frontend",
+    "skills": [
+      { "name": "HTML5", "proficiency": 90 },
+      { "name": "CSS3", "proficiency": 85 },
+      { "name": "JavaScript", "proficiency": 88 },
+      { "name": "React.js", "proficiency": 85 },
+      { "name": "Redux", "proficiency": 75 },
+      { "name": "Tailwind CSS", "proficiency": 80 },
+      { "name": "Bootstrap", "proficiency": 80 },
+      { "name": "Material-UI", "proficiency": 70 }
+    ]
+  },
+  {
+    "category": "Backend",
+    "skills": [
+      { "name": "Node.js", "proficiency": 80 },
+      { "name": "Express.js", "proficiency": 80 },
+      { "name": "Python", "proficiency": 85 },
+      { "name": "Django", "proficiency": 75 },
+      { "name": "Flask", "proficiency": 80 },
+      { "name": "RESTful APIs", "proficiency": 85 },
+      { "name": "JWT Authentication", "proficiency": 75 }
+    ]
+  },
+  {
+    "category": "Database",
+    "skills": [
+      { "name": "PostgreSQL", "proficiency": 80 },
+      { "name": "MySQL", "proficiency": 80 },
+      { "name": "SQLite", "proficiency": 75 },
+      { "name": "Firebase", "proficiency": 70 }
+    ]
+  },
+  {
+    "category": "Tools & Practices",
+    "skills": [
+      { "name": "Git & GitHub", "proficiency": 85 },
+      { "name": "Docker", "proficiency": 65 },
+      { "name": "Postman", "proficiency": 80 },
+      { "name": "VS Code", "proficiency": 90 },
+      { "name": "Agile/Scrum", "proficiency": 75 },
+      { "name": "CI/CD", "proficiency": 70 }
+    ]
+  },
+  {
+    "category": "Additional",
+    "skills": [
+      { "name": "CCNA (Networking)", "proficiency": 80 },
+      { "name": "Linux/Unix", "proficiency": 75 },
+      { "name": "Vercel", "proficiency": 80 },
+      { "name": "Netlify", "proficiency": 75 }
+    ]
+  }
+]

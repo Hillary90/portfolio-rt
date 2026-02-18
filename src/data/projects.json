@@ -1,0 +1,84 @@
+[
+  {
+    "id": "agrikonnect",
+    "title": "Agrikonnect",
+    "description": "Full-stack agricultural connection platform connecting farmers with buyers and resources",
+    "longDescription": "A comprehensive platform designed to bridge the gap between farmers and buyers, providing real-time market information, direct communication channels, and resource management tools.",
+    "technologies": ["React", "Node.js", "Express", "PostgreSQL"],
+    "category": "Full-Stack",
+    "featured": true,
+    "collaborative": true,
+    "image": "/src/assets/agriconnect_pictures/Screenshot from 2026-02-18 15-00-00.png",
+    "liveDemo": "https://agrikonnect-frontend.vercel.app/",
+    "githubFrontend": "https://github.com/Hillary90/agrikonnect-frontend.git",
+    "githubBackend": "https://github.com/pyrxallan/agrikonnect-backend.git",
+    "features": [
+      "Real-time market information",
+      "Direct farmer-buyer communication",
+      "Resource management tools",
+      "User authentication and profiles"
+    ],
+    "order": 1
+  },
+  {
+    "id": "react-cinescope",
+    "title": "React-CineScope",
+    "description": "AI-powered movie streaming platform with personalized recommendations",
+    "longDescription": "An intelligent movie streaming application that uses AI to provide personalized movie recommendations based on user preferences and viewing history.",
+    "technologies": ["React", "Firebase", "JavaScript", "API Integration"],
+    "category": "Full-Stack",
+    "featured": true,
+    "collaborative": false,
+    "image": "/src/assets/react-cinescope_pictures/Screenshot from 2026-02-18 15-14-54.png",
+    "liveDemo": "https://hillary90.github.io/React-CineScope/",
+    "githubFrontend": "https://github.com/Hillary90/React-CineScope.git",
+    "features": [
+      "AI-powered recommendation engine",
+      "Real-time movie data integration",
+      "User preference tracking",
+      "Responsive design across all devices"
+    ],
+    "order": 2
+  },
+  {
+    "id": "student-record-management",
+    "title": "Student Record Management System",
+    "description": "Full-stack application for managing student records and academic performance",
+    "longDescription": "A comprehensive system for educational institutions to manage student information, track academic performance, and generate reports with role-based access control.",
+    "technologies": ["Flask", "React", "PostgreSQL", "RESTful API"],
+    "category": "Full-Stack",
+    "featured": true,
+    "collaborative": true,
+    "image": "/src/assets/react.svg",
+    "liveDemo": "https://hillary90.github.io/Student_record_management_frontend/",
+    "githubFrontend": "https://github.com/Hillary90/Student_record_management_frontend.git",
+    "githubBackend": "https://github.com/Hillary90/Student_record_management_backend.git",
+    "features": [
+      "CRUD operations for student data",
+      "Role-based access control",
+      "Academic performance tracking",
+      "Secure data management"
+    ],
+    "order": 3
+  },
+  {
+    "id": "recipe-finder",
+    "title": "Recipe Finder",
+    "description": "Food discovery application for finding and exploring recipes",
+    "longDescription": "An intuitive recipe discovery platform that helps users find recipes based on ingredients, dietary preferences, and cuisine types.",
+    "technologies": ["React", "JavaScript", "API Integration", "CSS"],
+    "category": "Frontend",
+    "featured": false,
+    "collaborative": false,
+    "image": "/src/assets/recipe-finder_pictures/Screenshot from 2026-02-18 15-11-14.png",
+    "liveDemo": "https://hillary90.github.io/Recipe-Finder/",
+    "githubFrontend": "https://github.com/Hillary90/Recipe-Finder.git",
+    "features": [
+      "Recipe search by ingredients",
+      "Dietary preference filtering",
+      "Detailed recipe instructions",
+      "Responsive user interface"
+    ],
+    "order": 4
+  }
+]

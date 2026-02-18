@@ -1,0 +1,50 @@
+[
+  {
+    "type": "work",
+    "title": "ICT Support Attaché",
+    "organization": "Anti-Doping Agency of Kenya (ADAK)",
+    "location": "Nairobi, Kenya",
+    "startDate": "2023-09",
+    "endDate": "2023-12",
+    "current": false,
+    "description": "Provided comprehensive technical support and network infrastructure management",
+    "achievements": [
+      "Achieved 95% first-contact resolution rate for technical support issues",
+      "Maintained 90% uptime for critical network infrastructure",
+      "Reduced support tickets by 25% through effective user training",
+      "Applied CCNA expertise to resolve complex connectivity issues"
+    ]
+  },
+  {
+    "type": "education",
+    "title": "Full-Stack Web Development Bootcamp",
+    "organization": "Moringa School",
+    "location": "Nairobi, Kenya",
+    "startDate": "2025-09",
+    "endDate": "2026-06",
+    "current": true,
+    "description": "Intensive 6-month program focused on modern web development technologies",
+    "achievements": [
+      "Comprehensive training in React, Node.js, Python, Django, and Flask",
+      "Hands-on experience with Agile methodologies and pair programming",
+      "Built real-world projects from concept to deployment",
+      "Applied software engineering principles and best practices"
+    ]
+  },
+  {
+    "type": "education",
+    "title": "Bachelor of Science in Computer Science",
+    "organization": "Kabarak University",
+    "location": "Nakuru, Kenya",
+    "startDate": "2020-09",
+    "endDate": "2024-12",
+    "current": false,
+    "description": "Strong foundation in computer science fundamentals and theory",
+    "achievements": [
+      "Relevant coursework: Data Structures, Algorithms, Database Systems",
+      "Strong foundation in computational theory and discrete mathematics",
+      "Completed projects in web technologies and software engineering",
+      "Developed problem-solving and analytical skills"
+    ]
+  }
+]
